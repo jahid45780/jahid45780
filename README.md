@@ -1,53 +1,15 @@
-<main>
-    <h1 class=" text-4xl font-bold text-orange-700 text-center " > Hello, Iam MD Jahid👋 </h1>
-    <p class=" text-2xl text-orange-500 text-center" > Mern Stck Devloper </p>
 
-        
- <div class=" grid grid-cols-2 gap-2 justify-center items-center max-w-6xl mx-auto" >
-        <div>
-            <h1 class=" text-3xl" > About ME🤩 </h1>
-            <p class=" text-lg" > I am a proficient MERN stack developer with a strong passion for creating dynamic and responsive web applications. My expertise lies in developing scalable and efficient solutions using MongoDB, Express.js, React, and Node.js. I have a proven track record of delivering high-quality projects, from conceptualization to deployment, ensuring optimal performance and user experience. </p>
-         </div>
-     <div>
-            <img src="https://static.vecteezy.com/system/resources/previews/029/711/176/non_2x/developer-with-ai-generated-free-png.png" alt="">
-        </div>
-    </div>
-<div  class="max-w-6xl mx-auto" >
-      <h1 class="text-3xl text-center font-extrabold" > Technical Skills😍 </h1>
-    <div>
-      <p class=" text-2xl mt-2 text-center font-bold" > MongoDB: Skilled in designing, managing, and optimizing NoSQL databases. </p>
-        <p  class=" text-2xl mt-2 text-center font-bold" >Express.js: Proficient in building robust backend APIs and middleware</p>
-        <p  class=" text-2xl mt-2 text-center font-bold" >React: Experienced in creating interactive and user-friendly front-end interfaces.
-        </p>
-        <p  class=" text-2xl mt-2 text-center font-bold" >Node.js: Strong knowledge of server-side development and RESTful API creation.</p>
-        <p  class=" text-2xl mt-2 text-center font-bold" >JavaScript: Advanced understanding of ES6+ syntax and modern JavaScript frameworks.</p>
-        <p  class=" text-2xl mt-2 text-center font-bold" >Version Control: Competent in using Git and GitHub for version control and collaboration.
-        </p>
-        <p  class=" text-2xl mt-2 text-center font-bold" >Deployment: Knowledgeable in deploying applications using platforms like Heroku, AWS, and Docker.</p>
-       </div>
-   <div>
-            <h1 class="text-3xl text-center font-extrabold mt-4" >Projects 😍
-            </h1>
-     <p>E-Commerce Platform: Developed a full-featured e-commerce application with user authentication, product management, and payment integration  <br>
-              <a class=" text-red-600 font-bold" href="https://jb-booking-29f8e.web.app">JB Booking (Live Link) </a>    
-            </p>    </div>
- <div>
- </div>
- <div>
-        <h1 class="text-3xl text-center font-extrabold mt-4" >Personal Attributes😍</h1>
-        <p  class=" text-2xl mt-2 text-center font-bold" >Problem-Solving: Adept at troubleshooting and resolving complex issues.</p>
-        <p  class=" text-2xl mt-2 text-center font-bold" >Collaboration: Strong team player with excellent communication skills.</p>
-        <p  class=" text-2xl mt-2 text-center font-bold" >Adaptability: Quick learner who stays updated with the latest industry trends and technologies.
-        </p>
-        <p  class=" text-2xl mt-2 text-center font-bold" >Attention to Detail: Committed to writing clean, maintainable, and efficient code</p>
-    </div>
-   <div>
-        <h1 class="text-3xl text-center font-extrabold mt-4" > Contact😍</h1>
-        <address class=" text-center mx-auto text-2xl font-medium" >
-            Written by <a href="mailto:jahidhossain88899@gmail.com"> Md Jahid </a>.<br>
-            Visit us at:<br>
-            Dhaka.com<br>
-            Box 564, Mirpur<br>
-            Bangladesh
-            </address>   </div>
-</main>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mdjahid.hossain.16547) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-jahid-91589a295) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jahid45780&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jahid45780&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahid45780&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jahid45780&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
