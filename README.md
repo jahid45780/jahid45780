@@ -1,18 +1,10 @@
+###
 
 <div align="center">
   <img height="180" src="https://media.licdn.com/dms/image/v2/D4D16AQGEzmRea2yOJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719353533376?e=1729123200&v=beta&t=xkEHZxIrqiD7fIBxnlQTzpMkwuMgUesYYvKQSmg9O9o"  />
 </div>
 
-###
-
 <h4 align="left">👋 About Me<br><br>Hi, I'm MD Jahid — a passionate MERN Stack Developer with a love for building scalable web applications. My expertise lies in creating dynamic, user-friendly experiences using technologies like MongoDB, Express.js, React, and Node.js.<br><br>💻 I have hands-on experience in:<br><br>    Building responsive web applications with React.js and Vue.js.<br>    Designing web-based calculators and interactive tools.<br>    Developing APIs and server-side logic with Node.js and Express.<br><br>🌱 I’m continuously learning and exploring new technologies to keep up with the ever-evolving web landscape.<br><br>🚀 Currently working on some exciting projects while contributing to open-source.<br><br>📫 Feel free to connect with me on LinkedIn or check out my portfolio.</h4>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahid45780&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid45780&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -60,6 +52,15 @@
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jahid45780&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid45780&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
