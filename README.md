@@ -1,5 +1,3 @@
-###
-
 <div align="center">
   <img height="180" src="https://media.licdn.com/dms/image/v2/D4D16AQGEzmRea2yOJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719353533376?e=1729123200&v=beta&t=xkEHZxIrqiD7fIBxnlQTzpMkwuMgUesYYvKQSmg9O9o"  />
 </div>
@@ -8,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/jahid45780/count.svg?"  />
 </div>
 
-<h4 align="left">👋 About Me<br><br>Hi, I'm MD Jahid — a passionate MERN Stack Developer with a love for building scalable web applications. My expertise lies in creating dynamic, user-friendly experiences using technologies like MongoDB, Express.js, React, and Node.js.<br><br>💻 I have hands-on experience in:<br><br>    Building responsive web applications with React.js and Vue.js.<br>    Designing web-based calculators and interactive tools.<br>    Developing APIs and server-side logic with Node.js and Express.<br><br>🌱 I’m continuously learning and exploring new technologies to keep up with the ever-evolving web landscape.<br><br>🚀 Currently working on some exciting projects while contributing to open-source.<br><br>📫 Feel free to connect with me on LinkedIn or check out my portfolio.</h4>
+<h4 align="center">👋 About Me<br><br>Hi, I'm MD Jahid — a passionate MERN Stack Developer with a love for building scalable web applications. My expertise lies in creating dynamic, user-friendly experiences using technologies like MongoDB, Express.js, React, and Node.js.<br><br>💻 I have hands-on experience in:<br><br>    Building responsive web applications with React.js and Vue.js.<br>    Designing web-based calculators and interactive tools.<br>    Developing APIs and server-side logic with Node.js and Express.<br><br>🌱 I’m continuously learning and exploring new technologies to keep up with the ever-evolving web landscape.<br><br>🚀 Currently working on some exciting projects while contributing to open-source.<br><br>📫 Feel free to connect with me on LinkedIn or check out my portfolio.</h4>
 
 ###
 
@@ -30,11 +28,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/md-jahid-91589a295/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -54,10 +76,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
 
 
 ###
@@ -65,6 +83,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jahid45780&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jahid45780&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jahid45780&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=jahid45780&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid45780&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+
 
 ###
