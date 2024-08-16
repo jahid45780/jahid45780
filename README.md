@@ -4,6 +4,10 @@
   <img height="180" src="https://media.licdn.com/dms/image/v2/D4D16AQGEzmRea2yOJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719353533376?e=1729123200&v=beta&t=xkEHZxIrqiD7fIBxnlQTzpMkwuMgUesYYvKQSmg9O9o"  />
 </div>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jahid45780/count.svg?"  />
+</div>
+
 <h4 align="left">👋 About Me<br><br>Hi, I'm MD Jahid — a passionate MERN Stack Developer with a love for building scalable web applications. My expertise lies in creating dynamic, user-friendly experiences using technologies like MongoDB, Express.js, React, and Node.js.<br><br>💻 I have hands-on experience in:<br><br>    Building responsive web applications with React.js and Vue.js.<br>    Designing web-based calculators and interactive tools.<br>    Developing APIs and server-side logic with Node.js and Express.<br><br>🌱 I’m continuously learning and exploring new technologies to keep up with the ever-evolving web landscape.<br><br>🚀 Currently working on some exciting projects while contributing to open-source.<br><br>📫 Feel free to connect with me on LinkedIn or check out my portfolio.</h4>
 
 ###
