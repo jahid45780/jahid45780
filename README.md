@@ -2,19 +2,19 @@
 
 
 <div >
-  <img height="400"  width="900" src="https://i.ibb.co.com/zPxfJ78/MD-Jahid.png"  />
+  <img height="370"  width="910" src="https://i.ibb.co.com/zPxfJ78/MD-Jahid.png"  />
 </div>  
 
 
+[![](https://visitcount.itsvg.in/api?id=jahid45780&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
 
 
 
-<div align="center" >
 Hello! I'm MD Jahid, a passionate MERN Stack Developer with hands-on experience in building dynamic web applications using technologies like React.js, Next.js, Vue.js, and Tailwind CSS. I enjoy creating responsive, user-friendly interfaces and have a strong focus on front-end development, working extensively with libraries like Ant Design and React Icons.<br><br>Currently, I’m also working as an SCM (Supply Chain Management) Executive, where I apply my problem-solving and analytical skills to streamline operations and enhance efficiency. My dual expertise in both development and SCM gives me a unique perspective on tackling challenges in both the tech and business domains.<br><br>Feel free to explore my projects and connect with me on GitHub!
-</div>
+
 
 
 ## 🌐 Socials:
