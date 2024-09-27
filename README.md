@@ -1,12 +1,12 @@
 
 <div align="center">
-  <img height="180"  width="900" src="https://i.ibb.co.com/zPxfJ78/MD-Jahid.png"  />
+  <img height="250"  width="900" src="https://i.ibb.co.com/zPxfJ78/MD-Jahid.png"  />
 </div>  
 
 
 
 <div align="center" >
-  (https://visitcount.itsvg.in/api?id=jahid45780&icon=2&color=0)](https://visitcount.itsvg.in)
+  https://visitcount.itsvg.in/api?id=jahid45780&icon=2&color=0)](https://visitcount.itsvg.in
 </div>
 
 
