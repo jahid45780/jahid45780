@@ -1,11 +1,12 @@
+<div align="center" >
 
-<div align="center">
-  <img height="450"  width="900" src="https://i.ibb.co.com/zPxfJ78/MD-Jahid.png"  />
+
+<div >
+  <img height="400"  width="900" src="https://i.ibb.co.com/zPxfJ78/MD-Jahid.png"  />
 </div>  
 
 
 
-  https://visitcount.itsvg.in/api?id=jahid45780&icon=2&color=0)](https://visitcount.itsvg.in
 
 
 
@@ -38,3 +39,5 @@ Hello! I'm MD Jahid, a passionate MERN Stack Developer with hands-on experience 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+</div>
