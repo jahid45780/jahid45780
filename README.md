@@ -31,8 +31,7 @@ Hello! I'm MD Jahid, a passionate MERN Stack Developer with hands-on experience 
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jahid45780&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 
