@@ -1,8 +1,13 @@
 <div align="center">
 
-<!-- NEON / CYBERPUNK HERO -->
+<!-- AUTO-PLAYING NEON GIF HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:8A2BE2&height=260&section=header&text=MD%20Jahid&fontSize=55&fontColor=00F5A0&animation=twinkling" />
+<p align="center">
+  <!-- React Coding Neon Animation -->
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="520" />
+</p>
+
+<!-- NEON / CYBERPUNK HERO -->
 
 <!-- TYPING ANIMATION -->
 
@@ -38,7 +43,7 @@ Clean Code • Scalable UI • Continuous Learning
 
 ---
 
-## 🛠️ Tech Stack (Minimal Icons)
+## 🛠️ Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,mongodb,tailwind,redux,git,github,vercel" />
@@ -128,7 +133,7 @@ Clean Code • Scalable UI • Continuous Learning
 
 ---
 
-## 🧠 SCM Case Studies (Dynamic)
+## 🧠 SCM Case Studies
 
 <details>
 <summary><strong>📦 Inventory Optimization System</strong></summary>
@@ -163,7 +168,7 @@ Clean Code • Scalable UI • Continuous Learning
 ## 🌐 Portfolio Website
 
 <p align="center">
-  <a href="https://your-portfolio-link.vercel.app">
+  <a href="https://jahid-hossain.vercel.app">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -173,5 +178,79 @@ Clean Code • Scalable UI • Continuous Learning
 ### ⭐ Let’s build futuristic solutions together
 
 "Design. Develop. Deliver." 🚀
+
+</div>
+
+---
+
+## 🌈 Neon Gradient Headings (SVG Style)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:8A2BE2&height=80&section=header&text=Featured%20Work&fontSize=32&fontColor=FFFFFF" />
+</p>
+
+---
+
+## 🔥 Real Project Screenshots 
+
+<div align="center">
+
+<a href="https://github.com/jahid45780/library-management">
+  <img src="https://raw.githubusercontent.com/jahid45780/library-management/main/screenshots/dashboard.png" width="300" />
+</a>
+
+<a href="https://github.com/jahid45780/ecommerce-app">
+  <img src="https://raw.githubusercontent.com/jahid45780/ecommerce-app/main/screenshots/home.png" width="300" />
+</a>
+
+<a href="https://github.com/jahid45780/scm-dashboard">
+  <img src="https://raw.githubusercontent.com/jahid45780/scm-dashboard/main/screenshots/analytics.png" width="300" />
+</a>
+
+</div>
+
+> 📝 *Replace screenshot paths with real images from your repositories*
+
+---
+
+## 🧠 Advanced SCM Case Study
+
+<details>
+<summary><strong>📦 End‑to‑End Inventory Optimization Platform</strong></summary>
+
+### Problem
+
+* Overstock & stock‑out issues due to manual forecasting
+
+### Solution
+
+* Built a React‑based dashboard for demand visualization
+* Integrated backend APIs for real‑time stock sync
+* Applied ABC analysis logic for inventory prioritization
+
+### Impact
+
+* 📉 Overstock reduced by **22%**
+* ⏱️ Reorder decision time reduced by **40%**
+* 📊 Better executive‑level visibility
+
+</details>
+
+---
+
+## 📌 Hire Me
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-00F5A0?style=for-the-badge&logo=rocket&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-jahid-91589a295">
+    <img src="https://img.shields.io/badge/Let’s%20Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+
+🚀 **Open for Frontend / MERN roles & Freelance projects**
 
 </div>
