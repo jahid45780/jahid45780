@@ -3,8 +3,30 @@
 <!-- AUTO-PLAYING NEON GIF HERO -->
 
 <p align="center">
-  <!-- React Coding Neon Animation -->
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="520" />
+  <!-- FINAL ALL-IN-ONE NEON HERO -->
+<p align="center">
+  <!-- Custom Combined Neon GIF: Name + React + Terminal -->
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="620" />
+</p>
+
+<p align="center">
+  <!-- Gradient Glow Pulse Background -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00F5A0,100:00E5FF&height=120&section=header&animation=twinkling" />
+</p>
+
+<p align="center">
+  <!-- React useEffect Hook Animation -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="520" />
+</p>
+
+<p align="center">
+  <!-- Fake Terminal Typing -->
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="520" />
+</p>
+
+<p align="center">
+  <!-- Custom Coding GIF -->
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="520" />
 </p>
 
 <!-- NEON / CYBERPUNK HERO -->
@@ -43,7 +65,7 @@ Clean Code • Scalable UI • Continuous Learning
 
 ---
 
-## 🛠️ Tech Stack 
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,mongodb,tailwind,redux,git,github,vercel" />
@@ -67,13 +89,6 @@ Clean Code • Scalable UI • Continuous Learning
 
 ---
 
-## 🎥 Animated Section
-
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working.gif" width="420" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -115,7 +130,7 @@ Clean Code • Scalable UI • Continuous Learning
 
 ---
 
-## 🟣 Neon Featured Projects
+## 🟣 Featured Projects
 
 <div align="center">
 
@@ -133,7 +148,7 @@ Clean Code • Scalable UI • Continuous Learning
 
 ---
 
-## 🧠 SCM Case Studies
+## 🧠 SCM Case Studies 
 
 <details>
 <summary><strong>📦 Inventory Optimization System</strong></summary>
@@ -183,7 +198,7 @@ Clean Code • Scalable UI • Continuous Learning
 
 ---
 
-## 🌈 Neon Gradient Headings (SVG Style)
+## 🌈 Neon Gradient Headings 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:8A2BE2&height=80&section=header&text=Featured%20Work&fontSize=32&fontColor=FFFFFF" />
@@ -196,15 +211,15 @@ Clean Code • Scalable UI • Continuous Learning
 <div align="center">
 
 <a href="https://github.com/jahid45780/library-management">
-  <img src="https://raw.githubusercontent.com/jahid45780/library-management/main/screenshots/dashboard.png" width="300" />
+  <img src="https://prnt.sc/Tpm1rpngVaXR" width="300" />
 </a>
 
 <a href="https://github.com/jahid45780/ecommerce-app">
-  <img src="https://raw.githubusercontent.com/jahid45780/ecommerce-app/main/screenshots/home.png" width="300" />
+  <img src="https://prnt.sc/AJU87lcFvCph" width="300" />
 </a>
 
 <a href="https://github.com/jahid45780/scm-dashboard">
-  <img src="https://raw.githubusercontent.com/jahid45780/scm-dashboard/main/screenshots/analytics.png" width="300" />
+  <img src="https://prnt.sc/Ey_ezbgLS-pz" width="300" />
 </a>
 
 </div>
@@ -241,12 +256,10 @@ Clean Code • Scalable UI • Continuous Learning
 ## 📌 Hire Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mdjahidhossain22233@gmail.com">
     <img src="https://img.shields.io/badge/Hire%20Me-00F5A0?style=for-the-badge&logo=rocket&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/md-jahid-91589a295">
-    <img src="https://img.shields.io/badge/Let’s%20Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
 </p>
 
 <div align="center">
