@@ -1,269 +1,133 @@
 <div align="center">
 
-<!-- AUTO-PLAYING NEON GIF HERO -->
+<h1>Hi 👋, I'm MD Jahid</h1>
+<h3>Full-Stack Developer | MERN Stack | Frontend-Focused Engineer</h3>
 
-<p align="center">
-  <!-- FINAL ALL-IN-ONE NEON HERO -->
-<p align="center">
-  <!-- Custom Combined Neon GIF: Name + React + Terminal -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="620" />
+<p>
+I build scalable, secure, and user-centric web applications  
+where clean code meets real-world business needs.
 </p>
 
-<p align="center">
-  <!-- Gradient Glow Pulse Background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00F5A0,100:00E5FF&height=120&section=header&animation=twinkling" />
-</p>
-
-<p align="center">
-  <!-- React useEffect Hook Animation -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="520" />
-</p>
-
-<p align="center">
-  <!-- Fake Terminal Typing -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="520" />
-</p>
-
-<p align="center">
-  <!-- Custom Coding GIF -->
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="520" />
-</p>
-
-<!-- NEON / CYBERPUNK HERO -->
-
-<!-- TYPING ANIMATION -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00F5FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Frontend+Specialist;SCM+Executive;React+%7C+Next.js+%7C+Vue.js;Building+Futuristic+Web+Apps" />
-
-<img src="https://visitcount.itsvg.in/api?id=jahid45780&icon=6&color=9" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Specialist;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications" />
 
 </div>
 
 ---
 
-## 🧩 Dual Profile — Developer × SCM
+## 👨‍💻 About Me
 
-| 💻 Developer              | 📦 SCM Executive                |
-| ------------------------- | ------------------------------- |
-| Build scalable MERN apps  | Optimize supply chain workflows |
-| UI/UX focused development | Data-driven decision making     |
-| REST API & Auth systems   | Process improvement & planning  |
+- 🔹 **Full-Stack Developer** (MERN Stack)
+- 🔹 Strong focus on **Frontend Architecture & UI/UX**
+- 🔹 Experienced in **REST APIs, Authentication & Database Design**
+- 🔹 Background in **Supply Chain Management (SCM)** — strong business logic
+- 🔹 Passionate about clean code, performance & scalability
 
-> 🔗 **Where tech meets business efficiency**
-
----
-
-## 🧊 Ultra‑Minimal About Me
-
-```txt
-MD Jahid
-MERN Stack Developer
-Frontend Focused
-SCM Professional
-Clean Code • Scalable UI • Continuous Learning
-```
+> 💡 I don’t just write code — I solve business problems with technology.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,mongodb,tailwind,redux,git,github,vercel" />
-</p>
+### Frontend
+- React.js
+- Next.js
+- Vue.js
+- TypeScript
+- Tailwind CSS
+- Redux Toolkit / RTK Query
+
+### Backend
+- Node.js
+- Express.js
+- RESTful APIs
+- JWT Authentication
+- Role-based Access Control (RBAC)
+
+### Database
+- MongoDB
+- PostgreSQL
+
+### Tools & DevOps
+- Git & GitHub
+- Vercel
+- Postman
+- Docker (basic)
+- CI/CD fundamentals
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
+| Project | Tech | Description |
+|------|------|------------|
+| 📚 **Library Management System** | React, RTK Query, Node, MongoDB | Full-stack system for book, borrow & user management |
+| 🛒 **E-Commerce Platform** | MERN, JWT, Stripe | Secure authentication, cart & payment integration |
+| 📊 **SCM Dashboard** | React, REST API, Charts | Supply chain analytics & KPI visualization |
 
-| Project                          | Tech                      | Description                         |
-| -------------------------------- | ------------------------- | ----------------------------------- |
-| 📚 **Library Management System** | React • RTK Query • Node  | Full‑stack book & borrow management |
-| 🛒 **E‑Commerce Platform**       | MERN • JWT • Stripe       | Secure auth & payment integration   |
-| 📊 **SCM Dashboard**             | React • Charts • REST API | Business & supply chain analytics   |
-
-</div>
-
-> 👉 *More projects available on my repositories*
+> 🔗 More projects available in my repositories
 
 ---
-
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahid45780&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid45780&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jahid45780&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid45780&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahid45780&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahid45780&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🧠 Professional Strengths
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jahid45780&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## ✨ Fun Facts
-
-* ⚡ Love neon‑styled UIs
-* 🧠 Thinks in both **code & supply chains**
-* 🤝 Open to freelance & collaboration
-* 🌙 Night‑time coder
+- Clean & maintainable architecture
+- Component-driven UI development
+- Secure authentication & authorization
+- API design & integration
+- Performance optimization
+- Business-oriented problem solving
 
 ---
 
-<div align="center">
+## 📦 SCM × Tech Experience
 
-### ⭐ Star my repos if you like futuristic code!
+- 📉 Reduced inventory over-stock through data analysis
+- 📊 Built dashboards for operational insights
+- 🔄 Automated reporting & KPI tracking
+- 🤝 Strong understanding of business workflows
 
-"Code today. Innovate tomorrow." 🚀
-
-</div>
-
----
-
-## 🟣 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/jahid45780/library-management">
-  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e7a-55b2-4c5c-9b6c-3c8f3c3d4e1c.png" width="280" />
-</a>
-<a href="https://github.com/jahid45780/ecommerce-app">
-  <img src="https://user-images.githubusercontent.com/74038190/216656978-3b5b6c63-f9b4-4a38-a3bb-3a8a5e5d9d2f.png" width="280" />
-</a>
-<a href="https://github.com/jahid45780/scm-dashboard">
-  <img src="https://user-images.githubusercontent.com/74038190/216656979-9c4a2b7c-bf2d-4d2e-9e14-6c1c1a3c1b4f.png" width="280" />
-</a>
-
-</div>
-
----
-
-## 🧠 SCM Case Studies 
-
-<details>
-<summary><strong>📦 Inventory Optimization System</strong></summary>
-
-* Reduced over‑stock by **18%** using demand trend analysis
-* Built React dashboard to visualize stock movement
-* Integrated REST API for real‑time updates
-
-</details>
-
-<details>
-<summary><strong>🚚 Supplier Performance Tracking</strong></summary>
-
-* Automated KPI tracking (lead time, fill rate)
-* Improved supplier SLA compliance
-* Used charts for executive reporting
-
-</details>
+> 🔗 This helps me build software that actually works in real companies.
 
 ---
 
 ## 📄 Resume
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/REPLACE_WITH_YOUR_RESUME_LINK/view">
-    <img src="https://img.shields.io/badge/Download%20Resume-00F5A0?style=for-the-badge&logo=google-drive&logoColor=black" />
-  </a>
-</p>
+📥 **Download Resume**  
+👉 https://drive.google.com/file/d/REPLACE_WITH_YOUR_LINK
 
 ---
 
-## 🌐 Portfolio Website
+## 🌐 Portfolio
 
-<p align="center">
-  <a href="https://jahid-hossain.vercel.app">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+🚀 **Live Portfolio**  
+👉 https://jahid-hossain.vercel.app
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **mdjahidhossain22233@gmail.com**
+- 💼 Open to **Full-Stack / Frontend roles**
+- 🤝 Available for **freelance & collaboration**
+
+---
 
 <div align="center">
 
-### ⭐ Let’s build futuristic solutions together
-
-"Design. Develop. Deliver." 🚀
-
-</div>
-
----
-
-## 🌈 Neon Gradient Headings 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:8A2BE2&height=80&section=header&text=Featured%20Work&fontSize=32&fontColor=FFFFFF" />
-</p>
-
----
-
-## 🔥 Real Project Screenshots 
-
-<div align="center">
-
-<a href="https://github.com/jahid45780/library-management">
-  <img src="https://prnt.sc/Tpm1rpngVaXR" width="300" />
-</a>
-
-<a href="https://github.com/jahid45780/ecommerce-app">
-  <img src="https://prnt.sc/AJU87lcFvCph" width="300" />
-</a>
-
-<a href="https://github.com/jahid45780/scm-dashboard">
-  <img src="https://prnt.sc/Ey_ezbgLS-pz" width="300" />
-</a>
-
-</div>
-
-> 📝 *Replace screenshot paths with real images from your repositories*
-
----
-
-## 🧠 Advanced SCM Case Study
-
-<details>
-<summary><strong>📦 End‑to‑End Inventory Optimization Platform</strong></summary>
-
-### Problem
-
-* Overstock & stock‑out issues due to manual forecasting
-
-### Solution
-
-* Built a React‑based dashboard for demand visualization
-* Integrated backend APIs for real‑time stock sync
-* Applied ABC analysis logic for inventory prioritization
-
-### Impact
-
-* 📉 Overstock reduced by **22%**
-* ⏱️ Reorder decision time reduced by **40%**
-* 📊 Better executive‑level visibility
-
-</details>
-
----
-
-## 📌 Hire Me
-
-<p align="center">
-  <a href="mdjahidhossain22233@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-00F5A0?style=for-the-badge&logo=rocket&logoColor=black" />
-  </a>
-
-</p>
-
-<div align="center">
-
-🚀 **Open for Frontend / MERN roles & Freelance projects**
+⭐ If you like my work, consider starring my repositories  
+💬 Let’s build scalable and meaningful software together
 
 </div>
