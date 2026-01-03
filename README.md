@@ -1,14 +1,14 @@
 <div align="center">
 
 <h1>Hi 👋, I'm MD Jahid</h1>
-<h3>Full-Stack Developer | MERN Stack | Frontend-Focused Engineer</h3>
+<h3>Full-Stack Developer | MERN Stack Engineer</h3>
 
 <p>
-I build scalable, secure, and user-centric web applications  
-where clean code meets real-world business needs.
+I build end-to-end web applications  
+from intuitive frontend to secure backend systems.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Specialist;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Specialist;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Apps" />
 
 </div>
 
@@ -16,13 +16,11 @@ where clean code meets real-world business needs.
 
 ## 👨‍💻 About Me
 
-- 🔹 **Full-Stack Developer** (MERN Stack)
-- 🔹 Strong focus on **Frontend Architecture & UI/UX**
-- 🔹 Experienced in **REST APIs, Authentication & Database Design**
-- 🔹 Background in **Supply Chain Management (SCM)** — strong business logic
-- 🔹 Passionate about clean code, performance & scalability
-
-> 💡 I don’t just write code — I solve business problems with technology.
+- 🔥 Full-Stack Developer (MERN)
+- ⚛️ Frontend focused with strong backend skills
+- 🔐 JWT Authentication & Role-based access
+- 🗄️ MongoDB & PostgreSQL experience
+- 📦 Business logic expertise from SCM background
 
 ---
 
@@ -31,40 +29,44 @@ where clean code meets real-world business needs.
 ### Frontend
 - React.js
 - Next.js
-- Vue.js
-- TypeScript
 - Tailwind CSS
-- Redux Toolkit / RTK Query
+- Redux Toolkit
 
 ### Backend
 - Node.js
 - Express.js
-- RESTful APIs
+- REST API
 - JWT Authentication
-- Role-based Access Control (RBAC)
 
 ### Database
 - MongoDB
 - PostgreSQL
 
-### Tools & DevOps
+### Tools
 - Git & GitHub
-- Vercel
 - Postman
+- Vercel
 - Docker (basic)
-- CI/CD fundamentals
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Full-Stack Projects
 
-| Project | Tech | Description |
+| Project | Stack | Description |
 |------|------|------------|
-| 📚 **Library Management System** | React, RTK Query, Node, MongoDB | Full-stack system for book, borrow & user management |
-| 🛒 **E-Commerce Platform** | MERN, JWT, Stripe | Secure authentication, cart & payment integration |
-| 📊 **SCM Dashboard** | React, REST API, Charts | Supply chain analytics & KPI visualization |
+| 📚 **Library Management System** | MERN | Auth, CRUD, borrow system |
+| 🛒 **E-Commerce Platform** | MERN + Stripe | Secure payment & user roles |
+| 📊 **SCM Dashboard** | React + API | Business analytics system |
 
-> 🔗 More projects available in my repositories
+---
+
+## 🧠 Core Strengths
+
+- End-to-end application design
+- API development & integration
+- Authentication & authorization
+- Scalable project structure
+- Business-driven development
 
 ---
 
@@ -75,59 +77,19 @@ where clean code meets real-world business needs.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid45780&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahid45780&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🧠 Professional Strengths
-
-- Clean & maintainable architecture
-- Component-driven UI development
-- Secure authentication & authorization
-- API design & integration
-- Performance optimization
-- Business-oriented problem solving
-
----
-
-## 📦 SCM × Tech Experience
-
-- 📉 Reduced inventory over-stock through data analysis
-- 📊 Built dashboards for operational insights
-- 🔄 Automated reporting & KPI tracking
-- 🤝 Strong understanding of business workflows
-
-> 🔗 This helps me build software that actually works in real companies.
-
----
-
-## 📄 Resume
-
-📥 **Download Resume**  
-👉 https://drive.google.com/file/d/REPLACE_WITH_YOUR_LINK
-
 ---
 
 ## 🌐 Portfolio
 
-🚀 **Live Portfolio**  
 👉 https://jahid-hossain.vercel.app
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-- 📧 Email: **mdjahidhossain22233@gmail.com**
-- 💼 Open to **Full-Stack / Frontend roles**
-- 🤝 Available for **freelance & collaboration**
-
----
+📧 **mdjahidhossain22233@gmail.com**  
+💼 Open to **Full-Stack / MERN roles**
 
 <div align="center">
-
-⭐ If you like my work, consider starring my repositories  
-💬 Let’s build scalable and meaningful software together
-
+⭐ From idea to production — I build complete solutions.
 </div>
