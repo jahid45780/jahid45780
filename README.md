@@ -102,18 +102,12 @@ where clean code meets real-world business needs.
 > 🔗 This helps me build software that actually works in real companies.
 
 ---
-
-## 📄 Resume
-
-📥 **Download Resume**  
-👉 https://drive.google.com/file/d/REPLACE_WITH_YOUR_LINK
-
 ---
 
 ## 🌐 Portfolio
 
 🚀 **Live Portfolio**  
-👉 https://jahid-hossain.vercel.app
+👉 https://mdjahid-hossaion.vercel.app
 
 ---
 
