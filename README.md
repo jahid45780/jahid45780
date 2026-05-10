@@ -32,7 +32,7 @@ where clean code meets real-world business needs.
 - React.js
 - Next.js
 - Vue.js
-- TypeScript
+- TypeScript 
 - Tailwind CSS
 - Redux Toolkit / RTK Query
 
