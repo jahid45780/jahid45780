@@ -3,7 +3,7 @@
 <h1>Hi 👋, I'm MD Jahid</h1>
 <h3>Full-Stack Developer | MERN Stack | Frontend-Focused Engineer</h3>
 
-<p>
+<p> 
 I build scalable, secure, and user-centric web applications  
 where clean code meets real-world business needs.
 </p>
