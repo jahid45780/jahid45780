@@ -193,23 +193,6 @@ where modern UI meets real-world business solutions.
 
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahid45780&theme=radical&hide_border=true"/>
-</p>
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jahid45780&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid45780&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -227,6 +210,9 @@ where modern UI meets real-world business solutions.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid45780&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahid45780&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
