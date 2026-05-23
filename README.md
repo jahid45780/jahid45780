@@ -1,11 +1,11 @@
-<div align="center">
+<!-- <div align="center">
 
 <h1>Hi 👋, I'm MD Jahid</h1>
 <h3>Full-Stack Developer | MERN Stack | Frontend-Focused Engineer</h3>
 
 <p> 
 I build scalable, secure, and user-centric web applications   
-where clean code meets real-world business needs.
+where clean code meets real-world business needs. 
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+Stack+Specialist;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications" />
@@ -123,5 +123,131 @@ where clean code meets real-world business needs.
 
 ⭐ If you like my work, consider starring my repositories  
 💬 Let’s build scalable and meaningful software together
+
+</div> -->
+
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm MD Jahid
+
+<div align="center">
+
+### 🚀 Full-Stack Developer | MERN Stack Engineer | Frontend Specialist
+
+<p>
+I build scalable, secure, and high-performance web applications  
+where modern UI meets real-world business solutions.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;MERN+Stack+Specialist;React+%7C+Next.js+%7C+Node.js;TypeScript+%7C+MongoDB+%7C+PostgreSQL;Building+Scalable+Modern+Applications" />
+
+<img src="https://komarev.com/ghpvc/?username=jahid45780&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🔹 Full-Stack Developer specializing in the **MERN Stack**
+- 🔹 Strong focus on **Frontend Architecture & Modern UI/UX**
+- 🔹 Experienced in **REST APIs, Authentication & Database Design**
+- 🔹 Skilled with **TypeScript, Redux Toolkit & Scalable State Management**
+- 🔹 Background in **Supply Chain Management (SCM)**
+- 🔹 Passionate about writing clean & scalable code
+
+> 💡 I build software that solves real business problems.
+
+---
+
+# ⚡ Tech Stack
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,tailwind,redux,html,css,js" />
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+
+## 🛠️ Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,postman,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 📚 **Library Management System** | Book, borrow & user management system | React, RTK Query, Node.js, MongoDB |
+| 🛒 **E-Commerce Platform** | Authentication, cart & payment integration | MERN, JWT, Stripe |
+| 📊 **SCM Dashboard** | KPI & analytics dashboard | React, REST API, Charts |
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jahid45780&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid45780&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahid45780&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📅 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid45780&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+🚀 **Live Portfolio**  
+👉 https://mdjahid-hossaion.vercel.app
+
+</div>
+
+---
+
+# 📫 Contact Me
+
+- 📧 Email: **mdjahidhossain22233@gmail.com**
+- 💼 Open to Full-Stack & Frontend Roles
+- 🤝 Available for Freelance & Collaboration
+
+---
+
+<div align="center">
+
+⭐ If you like my work, consider starring my repositories.
+
+💬 Let’s build scalable and meaningful software together.
 
 </div>
