@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm MD Jahid</h1>
 <h3>Full-Stack Developer | MERN Stack | Frontend-Focused Engineer</h3>
-
+<img src="https://komarev.com/ghpvc/?username=jahid45780&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 <p> 
 I build scalable, secure, and user-centric web applications   
 where clean code meets real-world business needs. 
@@ -65,7 +65,7 @@ where clean code meets real-world business needs.
 | 📊 **SCM Dashboard** | React, REST API, Charts | Supply chain analytics & KPI visualization |
 
 > 🔗 More projects available in my repositories
-
+ 
 ---
 
 ## 📊 GitHub Stats
@@ -101,6 +101,14 @@ where clean code meets real-world business needs.
 
 > 🔗 This helps me build software that actually works in real companies.
 
+# 📅 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid45780&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
 ---
 ---
 
@@ -126,20 +134,4 @@ where clean code meets real-world business needs.
 
 </div> -->
 
-# 🔥 GitHub Streak & Commits
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahid45780&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 GitHub Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid45780&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
