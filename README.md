@@ -106,7 +106,17 @@ const jahid = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahid45780&theme=tokyonight&hide_border=true"/>
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=jahid45780&theme=tokyonight&hide_border=true" 
+  alt="GitHub Streak"
+/>
+
+<br/><br/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid45780&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" 
+  alt="Top Languages" 
+/>
 
 </div>
 
