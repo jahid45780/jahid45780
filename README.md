@@ -106,17 +106,19 @@ const jahid = {
 
 <div align="center">
 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=jahid45780&theme=tokyonight&hide_border=true" 
-  alt="GitHub Streak"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jahid45780&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<br/><br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid45780&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid45780&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" 
-  alt="Top Languages" 
-/>
+</div>
+
+---
+
+# 🔥 GitHub Commit Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jahid45780&theme=tokyonight&hide_border=true"/>
 
 </div>
 
