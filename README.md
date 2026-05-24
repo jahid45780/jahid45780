@@ -66,15 +66,15 @@ const jahid = {
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/md-jahid-91589a295" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:mdjahidhossain88899@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-link.com" target="_blank">
+<a href="https://mdjahid-hossaion.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
 </a>
 
@@ -106,9 +106,7 @@ const jahid = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahid45780&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid45780&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahid45780&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -186,7 +184,7 @@ const jahid = {
 
 <div align="center">
 
-### 💻 “Code. Build. Scale. Repeat.”
+### 💻 Code Build Scale Repeat☘
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
 
