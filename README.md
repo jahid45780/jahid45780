@@ -398,12 +398,11 @@ A modern sports platform focused on live football streaming, live scores and IPT
 ---
 
 # 📊 GitHub Statistics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jahid45780&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://github.com/jahid45780"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=jahid45780&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" /> </a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid45780&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/jahid45780"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahid45780&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" /> </a>
 
 </div>
 
@@ -413,7 +412,7 @@ A modern sports platform focused on live football streaming, live scores and IPT
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jahid45780&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/jahid45780"> <img src="https://streak-stats.demolab.com/?user=jahid45780&theme=tokyonight&hide_border=true&background=0D1117" /> </a>
 
 </div>
 
@@ -423,7 +422,7 @@ A modern sports platform focused on live football streaming, live scores and IPT
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid45780&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jahid45780&theme=tokyo-night&hide_border=true&area=true&custom_title=Jahid's%20Contribution%20Graph" />
 
 </div>
 
